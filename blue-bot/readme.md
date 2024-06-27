@@ -33,7 +33,7 @@ Voici le résultat :
 
 Cette réglette permet de garder une trace du programme et ainsi de permettre aux élèves de corriger d'éventuelles erreurs.
 
-Réalisation :
+### Réalisation :
 - Imprimer sur du papier bristol les fiches
 - Pour la découpe des cartes, vous pouvez utiliser le fichier pour découpe laser au format SVG ou avec un massicot et une relieuse.
 
