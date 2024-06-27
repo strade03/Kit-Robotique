@@ -5,7 +5,7 @@
 Cette application permet d'envoyer au robot le programme composé sur l'application.
 Le programme peut-être corriger et modifier en déplaçant les cartes de programmation.
 
-![capture ecran](/blue-bot/img/BlueBot_controleur_V2.png){ width=50% }
+![capture ecran](/blue-bot/img/BlueBot_controleur_V2.png){: width="50%"}
 
 
 
