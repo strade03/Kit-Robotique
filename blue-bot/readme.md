@@ -8,8 +8,8 @@ Pour les réaliser il vous faudra :
 - une découpe laser
 
 Télécharger le fichier de découpe :
-- la pièce : [/blue-bot/dalles/dalle.svg]
-- 6 pièces agencées (taille 490mm x 340mm) : [/blue-bot/dalles/dalle.svg]
+- [la pièce](/blue-bot/dalles/dalle.svg)
+- [6 pièces agencées (taille 490mm x 340mm)](/blue-bot/dalles/dalle.svg)
 
 Voici le résultat :
 <img src="/blue-bot/img/Bluebot_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
