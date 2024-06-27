@@ -7,6 +7,7 @@ Le programme peut-être corriger et modifier en déplaçant les cartes de progra
 
 ![capture ecran](/blue-bot/img/BlueBot_controleur_V2.png|width=10)
 
+ <img src="/blue-bot/img/BlueBot_controleur_V2.png" alt="alt text" width="100px" >
 
 ![parcours 1](/blue-bot/img/Bluebot_Dalles1.jpg)
 ![parcours 2](/blue-bot/img/Bluebot_Dalles2.jpg)
