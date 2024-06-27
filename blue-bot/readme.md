@@ -12,7 +12,9 @@ Télécharger les fichiers de découpe se trouvant [le dossier dalles](/blue-bot
 - [6 pièces agencées (taille 490mm x 340mm)](/blue-bot/dalles/dalles_x6.svg)
 
 Voici le résultat :
+
 <img src="/blue-bot/img/Bluebot_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
+
 <img src="/blue-bot/img/Bluebot_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
 
 
