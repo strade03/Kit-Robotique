@@ -1,4 +1,10 @@
-# ressources Blue-bot
+# Ressources Blue-bot
+
+### Au menu :
+- Dalles de circuit
+- Réglette de programmation
+- Application Android - Barre de programmation - Bluebot controleur V2
+---
 
 ## Dalles de circuit
 >Ces dalles vous permettrons de faire des circuits. Le système d'accroche permet une mise en place simple et rapide.
@@ -16,17 +22,31 @@ Voici le résultat :
 <img src="/blue-bot/img/Bluebot_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
 
 <img src="/blue-bot/img/Bluebot_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
+---
+
+## Réglette de programmation
+
+>_Voici une adaptation de la réglette proposée dans le document :\
+>**Séquences « Langage, codage et robotique au cycle 1 »**\
+>Yann Boudic, Frédéric Hayet, Agnès Laurent, Christophe Lefrais,\
+>Conseillers pédagogiques DSDEN de la Gironde, Mai 2021_
+
+Cette réglette permet de garder une trace du programme et ainsi de permettre aux élèves de corriger d'éventuelles erreurs.
+
+Réalisation :
+- Imprimer sur du papier bristol les fiches
+- Pour la découpe des cartes, vous pouvez utiliser le fichier pour découpe laser au format SVG ou avec un massicot et une relieuse.
 
 
 
-
+---
 ## Application Android - Barre de programmation - Bluebot controleur V2
 
 Cette application permet d'envoyer au robot le programme composé sur l'application.
 Le programme peut-être corriger et modifier en déplaçant les cartes de programmation.
 
  <img src="/blue-bot/img/BlueBot_controleur_V2.png" alt="Capture ecran" width="600px" >
-
+---
 
 
 
