@@ -1,0 +1,5550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svgcontent"
+   width="600mm"
+   height="375mm"
+   viewBox="0 0 6000 3750"
+   data-top="-2080"
+   data-left="-2370"
+   data-zoom="0.1"
+   data-workarea="fbb1p"
+   data-en_af="false"
+   data-en_diode="false"
+   data-rotary_mode="null"
+   data-engrave_dpi="medium"
+   version="1.1"
+   sodipodi:docname="6 dalles diffusion.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       id="filter#000000"
+       filterUnits="objectBoundingBox"
+       primitiveUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0"
+         id="feColorMatrix1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.49124306"
+     inkscape:cx="1117.5731"
+     inkscape:cy="750.13783"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svgcontent" />
+  <g
+     transform="rotate(90,2574.875,1114.8749)"
+     data-original-layer="0"
+     data-ratiofixed="true"
+     id="svg_583">
+    <path
+       data-original-layer="0"
+       id="svg_448"
+       d="m 3280.0001,1365.2499 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_449"
+       d="m 3340.2501,1335.2499 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_450"
+       d="m 3399.7501,1385.2499 v 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_451"
+       d="m 1750.0001,1789.9999 v -295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_452"
+       d="m 3250.0001,1494.7499 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       id="svg_454"
+       d="m 1750.0001,1334.9999 c 0,7.9565 3.1607,15.587 8.7868,21.2131 5.6261,5.6261 13.2567,8.7869 21.2132,8.7869 h 30 c 3.9783,0 7.7936,-1.5805 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       id="svg_455"
+       d="m 1840.0001,1334.9999 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       id="svg_456"
+       d="m 1900.0001,1384.9998 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       stroke="#000000"
+       fill="none" />
+    <path
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       id="svg_457"
+       d="m 1900.0001,1384.9998 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_458"
+       d="m 1750.0001,584.99985 v -295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       id="svg_459"
+       d="M 1750.0001,1334.9999 V 744.99985"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_460"
+       d="m 3250.0001,289.99985 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_461"
+       d="m 1750.0001,289.99985 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_462"
+       d="m 2955.0001,289.99985 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_463"
+       d="m 2045.2501,1789.9999 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_464"
+       d="m 3250.0001,1789.9999 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_465"
+       d="m 3250.0001,1335.2499 c 0,7.9565 3.1607,15.587 8.7868,21.2131 5.6261,5.6261 13.2567,8.7869 21.2132,8.7869"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_466"
+       d="m 3310.2501,1365.2499 c 3.9783,0 7.7936,-1.5805 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_467"
+       d="m 3399.7501,1385.2499 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_468"
+       d="M 3250.0001,744.74985 V 1335.2499"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_469"
+       d="m 3325.2501,1350.2499 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_470"
+       d="m 3340.2501,1335.2499 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3933 -2.813,2.8131 -4.3934,6.6284 -4.3934,10.6067 0,0.018 10e-5,0.037 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_471"
+       d="m 1840.0001,1334.9999 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3933 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 l -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_472"
+       d="m 1900.0001,1444.9999 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_473"
+       d="m 1780.0001,1464.9999 c -7.9565,0 -15.5871,3.1606 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_474"
+       d="m 1780.0001,1464.9999 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_475"
+       d="m 1840.0001,1494.9999 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_476"
+       d="m 1825.0001,1479.9999 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6067 -2.813,-2.8131 -6.6283,-4.3933 -10.6066,-4.3933 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_477"
+       d="m 1850.0001,1494.9999 c 13.2609,0 25.9786,-5.268 35.3554,-14.6448 9.3768,-9.3768 14.6446,-22.0944 14.6446,-35.3552"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_478"
+       d="m 1825.0003,1480.0718 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_479"
+       d="m 1825.0003,1480.0718 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_480"
+       d="m 3280.0001,1464.7499 c -7.9565,0 -15.5871,3.1606 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_481"
+       d="m 3325.2502,1479.6946 c -0.015,3.9782 1.5517,7.7992 4.3543,10.6226 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,10e-5 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_482"
+       d="m 3399.7501,1444.7499 v -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_483"
+       d="m 3325.2501,1479.7499 10e-5,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_484"
+       d="m 3280.0001,1464.7499 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_485"
+       d="m 3325.2501,1479.7499 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6067 -2.813,-2.8131 -6.6283,-4.3933 -10.6066,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_486"
+       d="m 3340.2501,1494.7499 h 9.5 c 13.2609,0 25.9786,-5.268 35.3554,-14.6448 9.3768,-9.3768 14.6446,-22.0944 14.6446,-35.3552"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_487"
+       d="m 1780.0001,714.99985 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_488"
+       d="m 1850.0001,744.99985 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_489"
+       d="m 1825.0001,729.99985 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_490"
+       d="m 1825.0003,730.07175 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_491"
+       d="m 1780.0001,714.99985 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_492"
+       d="m 1840.0001,744.99985 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_493"
+       d="m 1825.0003,730.07175 -2e-4,-0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_494"
+       d="m 1900.0001,694.99985 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_495"
+       d="m 1900.0001,634.99975 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_496"
+       d="m 1810.0001,614.99985 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_497"
+       d="m 1825.0003,599.92795 -2e-4,0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_498"
+       d="m 1750.0001,584.99985 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_499"
+       d="m 1840.0001,584.99985 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_500"
+       d="m 1840.0001,584.99985 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_501"
+       d="m 1900.0001,634.99975 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_502"
+       d="m 1780.0001,614.99985 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_503"
+       d="m 3325.2502,729.69455 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_504"
+       d="m 3310.2501,615.24985 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_505"
+       d="m 3280.0001,714.74985 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_506"
+       d="m 3280.0001,714.74985 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_507"
+       d="m 3325.2501,729.74985 10e-5,-0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_508"
+       d="m 3340.2501,585.24985 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_509"
+       d="m 3399.7501,635.24985 v 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_510"
+       d="m 3399.7501,635.24985 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_511"
+       d="m 3349.7501,744.74985 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_512"
+       d="m 3340.2501,585.24985 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.0184 10e-5,0.0368 10e-5,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_513"
+       d="m 3340.2501,744.74985 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_514"
+       d="m 3325.2501,600.24985 10e-5,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_515"
+       d="m 3250.0001,585.24985 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_516"
+       d="m 3325.2501,729.74985 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_517"
+       d="m 3399.7501,694.74985 v -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_518"
+       d="m 3280.0001,615.24985 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_519"
+       d="m 2905.0002,439.99985 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_520"
+       d="m 2845.0001,439.99985 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_521"
+       d="m 2955.0001,289.99985 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_522"
+       d="m 2825.0001,319.99985 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_523"
+       d="m 2905.0002,439.99985 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_524"
+       d="m 2940.072,364.99995 -0.072,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_525"
+       d="m 2825.0001,319.99985 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_526"
+       d="m 2925.0001,319.99985 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_527"
+       d="m 2955.0001,379.99985 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_528"
+       d="m 2809.9282,364.99995 0.072,-1e-4 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_529"
+       d="m 2809.9282,364.99995 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_530"
+       d="m 2925.0001,349.99985 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_531"
+       d="m 2795.0001,389.99985 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_532"
+       d="m 2955.0001,379.99985 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_533"
+       d="m 2045.0001,389.99985 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_534"
+       d="m 2059.9282,364.99995 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_535"
+       d="m 2075.0001,319.99985 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_536"
+       d="m 2155.0002,439.99985 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_537"
+       d="m 2175.0001,319.99985 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_538"
+       d="m 2095.0001,439.99985 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_539"
+       d="m 2155.0002,439.99985 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_540"
+       d="m 2060.0001,364.99985 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_541"
+       d="m 2205.0001,379.99985 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_542"
+       d="m 2075.0001,319.99985 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_543"
+       d="m 2059.9282,364.99995 0.072,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_544"
+       d="m 2205.0001,289.99985 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_545"
+       d="m 2190.072,364.99995 -0.072,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_546"
+       d="m 2205.0001,379.99985 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_547"
+       d="m 2205.0001,289.99985 h 590"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_548"
+       d="m 2924.7501,1819.9999 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_549"
+       d="m 2939.7501,1865.2499 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_550"
+       d="m 2904.7501,1939.7499 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_551"
+       d="m 2954.7501,1880.2499 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_552"
+       d="m 2924.7501,1850.2499 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_553"
+       d="m 2810.2501,1865.2499 c 3.9783,0 7.7936,-1.5805 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_554"
+       d="m 2795.2501,1880.2499 v 9.5 c 0,13.2608 5.2679,25.9784 14.6447,35.3552 9.3768,9.3768 22.0945,14.6448 35.3553,14.6448 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_555"
+       d="m 2954.7501,1880.2499 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6067 -2.813,-2.8131 -6.6283,-4.3933 -10.6066,-4.3933 -0.018,0 -0.037,0 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_556"
+       d="m 2810.2501,1865.2499 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_557"
+       d="m 2954.7501,1789.9999 c -7.9565,0 -15.5871,3.1606 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_558"
+       d="m 2904.7501,1939.7499 c 13.2609,0 25.9786,-5.268 35.3554,-14.6448 9.3768,-9.3768 14.6446,-22.0944 14.6446,-35.3552 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_559"
+       d="m 2825.2501,1819.9999 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_560"
+       d="m 2825.2501,1819.9999 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_561"
+       d="m 2810.3054,1865.25 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3542 -2.8234,2.8026 -4.4178,6.6122 -4.4325,10.5904 0,0.018 -10e-5,0.037 -10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_562"
+       d="m 2845.2501,1939.7499 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_563"
+       d="m 2204.7501,1880.2499 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_564"
+       d="m 2060.3054,1865.25 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3542 -2.8234,2.8026 -4.4178,6.6122 -4.4325,10.5904 0,0.018 -10e-5,0.037 -10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_565"
+       d="m 2174.7501,1819.9999 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_566"
+       d="m 2154.7501,1939.7499 c 13.2609,0 25.9786,-5.268 35.3554,-14.6448 9.3768,-9.3768 14.6446,-22.0944 14.6446,-35.3552 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_567"
+       d="m 2075.2501,1819.9999 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_568"
+       d="m 2095.2501,1939.7499 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_569"
+       d="m 2045.2501,1880.2499 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_570"
+       d="m 2204.7501,1789.9999 c -7.9565,0 -15.5871,3.1606 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_571"
+       d="m 2060.2501,1865.2499 c 3.9783,0 7.7936,-1.5805 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_572"
+       d="m 2204.7501,1880.2499 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6067 -2.813,-2.8131 -6.6283,-4.3933 -10.6066,-4.3933 -0.018,0 -0.037,0 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_573"
+       d="m 2045.2501,1889.7499 c 0,13.2608 5.2679,25.9784 14.6447,35.3552 9.3768,9.3768 22.0945,14.6448 35.3553,14.6448 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_574"
+       d="m 2154.7501,1939.7499 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_575"
+       d="m 2075.2501,1819.9999 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_576"
+       d="m 2189.7501,1865.2499 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_577"
+       d="m 2060.2501,1865.2499 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       data-original-layer="0"
+       id="svg_578"
+       d="m 2204.7501,1789.9999 h 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+  <g
+     id="svg_585"
+     transform="rotate(90,2574.875,2814.875)"
+     data-original-layer="0"
+     data-ratiofixed="true">
+    <path
+       id="svg_586"
+       data-original-layer="0"
+       d="m 3280.0001,3065.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_587"
+       data-original-layer="0"
+       d="m 3340.2501,3035.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_588"
+       data-original-layer="0"
+       d="M 3399.7501,3085.25 V 3115"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_589"
+       data-original-layer="0"
+       d="M 1750.0001,3490 V 3195"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_590"
+       data-original-layer="0"
+       d="M 3250.0001,3194.75 V 3490"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_591"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 1750.0001,3035 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868 h 30 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_592"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 1840.0001,3035 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_593"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 1900.0001,3084.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_594"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 1900.0001,3084.9999 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_595"
+       data-original-layer="0"
+       d="M 1750.0001,2285 V 1990"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_596"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="M 1750.0001,3035 V 2445"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_597"
+       data-original-layer="0"
+       d="m 3250.0001,1990 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_598"
+       data-original-layer="0"
+       d="m 1750.0001,1990 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_599"
+       data-original-layer="0"
+       d="m 2955.0001,1990 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_600"
+       data-original-layer="0"
+       d="m 2045.2501,3490 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_601"
+       data-original-layer="0"
+       d="m 3250.0001,3490 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_602"
+       data-original-layer="0"
+       d="m 3250.0001,3035.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_603"
+       data-original-layer="0"
+       d="m 3310.2501,3065.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_604"
+       data-original-layer="0"
+       d="m 3399.7501,3085.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_605"
+       data-original-layer="0"
+       d="m 3250.0001,2444.75 v 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_606"
+       data-original-layer="0"
+       d="m 3325.2501,3050.25 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_607"
+       data-original-layer="0"
+       d="m 3340.2501,3035.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 10e-5,0.037 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_608"
+       data-original-layer="0"
+       d="m 1840.0001,3035 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 l -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_609"
+       data-original-layer="0"
+       d="m 1900.0001,3145 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_610"
+       data-original-layer="0"
+       d="m 1780.0001,3165 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_611"
+       data-original-layer="0"
+       d="m 1780.0001,3165 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_612"
+       data-original-layer="0"
+       d="m 1840.0001,3195 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_613"
+       data-original-layer="0"
+       d="m 1825.0001,3180 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_614"
+       data-original-layer="0"
+       d="m 1850.0001,3195 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_615"
+       data-original-layer="0"
+       d="m 1825.0003,3180.0719 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_616"
+       data-original-layer="0"
+       d="m 1825.0003,3180.0719 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_617"
+       data-original-layer="0"
+       d="m 3280.0001,3164.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_618"
+       data-original-layer="0"
+       d="m 3325.2502,3179.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_619"
+       data-original-layer="0"
+       d="M 3399.7501,3144.75 V 3115"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_620"
+       data-original-layer="0"
+       d="m 3325.2501,3179.75 10e-5,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_621"
+       data-original-layer="0"
+       d="m 3280.0001,3164.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_622"
+       data-original-layer="0"
+       d="m 3325.2501,3179.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_623"
+       data-original-layer="0"
+       d="m 3340.2501,3194.75 h 9.5 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_624"
+       data-original-layer="0"
+       d="m 1780.0001,2415 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_625"
+       data-original-layer="0"
+       d="m 1850.0001,2445 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_626"
+       data-original-layer="0"
+       d="m 1825.0001,2430 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_627"
+       data-original-layer="0"
+       d="m 1825.0003,2430.0719 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_628"
+       data-original-layer="0"
+       d="m 1780.0001,2415 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_629"
+       data-original-layer="0"
+       d="m 1840.0001,2445 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_630"
+       data-original-layer="0"
+       d="m 1825.0003,2430.0719 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_631"
+       data-original-layer="0"
+       d="m 1900.0001,2395 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_632"
+       data-original-layer="0"
+       d="m 1900.0001,2334.9999 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_633"
+       data-original-layer="0"
+       d="m 1810.0001,2315 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_634"
+       data-original-layer="0"
+       d="m 1825.0003,2299.9281 -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_635"
+       data-original-layer="0"
+       d="m 1750.0001,2285 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_636"
+       data-original-layer="0"
+       d="m 1840.0001,2285 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_637"
+       data-original-layer="0"
+       d="m 1840.0001,2285 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_638"
+       data-original-layer="0"
+       d="m 1900.0001,2334.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_639"
+       data-original-layer="0"
+       d="m 1780.0001,2315 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_640"
+       data-original-layer="0"
+       d="m 3325.2502,2429.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_641"
+       data-original-layer="0"
+       d="m 3310.2501,2315.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_642"
+       data-original-layer="0"
+       d="m 3280.0001,2414.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_643"
+       data-original-layer="0"
+       d="m 3280.0001,2414.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_644"
+       data-original-layer="0"
+       d="m 3325.2501,2429.75 10e-5,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_645"
+       data-original-layer="0"
+       d="m 3340.2501,2285.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_646"
+       data-original-layer="0"
+       d="M 3399.7501,2335.25 V 2365"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_647"
+       data-original-layer="0"
+       d="m 3399.7501,2335.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_648"
+       data-original-layer="0"
+       d="m 3349.7501,2444.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_649"
+       data-original-layer="0"
+       d="m 3340.2501,2285.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 10e-5,0.037 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_650"
+       data-original-layer="0"
+       d="m 3340.2501,2444.75 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_651"
+       data-original-layer="0"
+       d="m 3325.2501,2300.25 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_652"
+       data-original-layer="0"
+       d="m 3250.0001,2285.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_653"
+       data-original-layer="0"
+       d="m 3325.2501,2429.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_654"
+       data-original-layer="0"
+       d="M 3399.7501,2394.75 V 2365"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_655"
+       data-original-layer="0"
+       d="m 3280.0001,2315.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_656"
+       data-original-layer="0"
+       d="m 2905.0002,2140 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_657"
+       data-original-layer="0"
+       d="m 2845.0001,2140 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_658"
+       data-original-layer="0"
+       d="m 2955.0001,1990 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_659"
+       data-original-layer="0"
+       d="m 2825.0001,2020 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_660"
+       data-original-layer="0"
+       d="m 2905.0002,2140 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_661"
+       data-original-layer="0"
+       d="M 2940.072,2065.0001 2940,2065"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_662"
+       data-original-layer="0"
+       d="m 2825.0001,2020 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_663"
+       data-original-layer="0"
+       d="m 2925.0001,2020 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_664"
+       data-original-layer="0"
+       d="m 2955.0001,2080 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_665"
+       data-original-layer="0"
+       d="m 2809.9282,2065.0001 0.072,-1e-4 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_666"
+       data-original-layer="0"
+       d="m 2809.9282,2065.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_667"
+       data-original-layer="0"
+       d="m 2925.0001,2050 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_668"
+       data-original-layer="0"
+       d="m 2795.0001,2090 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_669"
+       data-original-layer="0"
+       d="m 2955.0001,2080 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_670"
+       data-original-layer="0"
+       d="m 2045.0001,2090 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_671"
+       data-original-layer="0"
+       d="m 2059.9282,2065.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_672"
+       data-original-layer="0"
+       d="m 2075.0001,2020 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_673"
+       data-original-layer="0"
+       d="m 2155.0002,2140 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_674"
+       data-original-layer="0"
+       d="m 2175.0001,2020 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_675"
+       data-original-layer="0"
+       d="m 2095.0001,2140 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_676"
+       data-original-layer="0"
+       d="m 2155.0002,2140 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_677"
+       data-original-layer="0"
+       d="m 2060.0001,2065 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_678"
+       data-original-layer="0"
+       d="m 2205.0001,2080 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_679"
+       data-original-layer="0"
+       d="m 2075.0001,2020 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_680"
+       data-original-layer="0"
+       d="m 2059.9282,2065.0001 0.072,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_681"
+       data-original-layer="0"
+       d="m 2205.0001,1990 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_682"
+       data-original-layer="0"
+       d="M 2190.072,2065.0001 2190,2065"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_683"
+       data-original-layer="0"
+       d="m 2205.0001,2080 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_684"
+       data-original-layer="0"
+       d="m 2205.0001,1990 h 590"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_685"
+       data-original-layer="0"
+       d="m 2924.7501,3520 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_686"
+       data-original-layer="0"
+       d="m 2939.7501,3565.25 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_687"
+       data-original-layer="0"
+       d="m 2904.7501,3639.75 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_688"
+       data-original-layer="0"
+       d="m 2954.7501,3580.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_689"
+       data-original-layer="0"
+       d="m 2924.7501,3550.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_690"
+       data-original-layer="0"
+       d="m 2810.2501,3565.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_691"
+       data-original-layer="0"
+       d="m 2795.2501,3580.25 v 9.5 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_692"
+       data-original-layer="0"
+       d="m 2954.7501,3580.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_693"
+       data-original-layer="0"
+       d="m 2810.2501,3565.25 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_694"
+       data-original-layer="0"
+       d="m 2954.7501,3490 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_695"
+       data-original-layer="0"
+       d="m 2904.7501,3639.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_696"
+       data-original-layer="0"
+       d="m 2825.2501,3520 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_697"
+       data-original-layer="0"
+       d="m 2825.2501,3520 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_698"
+       data-original-layer="0"
+       d="m 2810.3054,3565.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -10e-5,0.037 -10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_699"
+       data-original-layer="0"
+       d="m 2845.2501,3639.75 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_700"
+       data-original-layer="0"
+       d="m 2204.7501,3580.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_701"
+       data-original-layer="0"
+       d="m 2060.3054,3565.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -10e-5,0.037 -10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_702"
+       data-original-layer="0"
+       d="m 2174.7501,3520 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_703"
+       data-original-layer="0"
+       d="m 2154.7501,3639.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_704"
+       data-original-layer="0"
+       d="m 2075.2501,3520 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_705"
+       data-original-layer="0"
+       d="m 2095.2501,3639.75 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_706"
+       data-original-layer="0"
+       d="m 2045.2501,3580.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_707"
+       data-original-layer="0"
+       d="m 2204.7501,3490 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_708"
+       data-original-layer="0"
+       d="m 2060.2501,3565.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_709"
+       data-original-layer="0"
+       d="m 2204.7501,3580.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_710"
+       data-original-layer="0"
+       d="m 2045.2501,3589.75 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_711"
+       data-original-layer="0"
+       d="m 2154.7501,3639.75 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_712"
+       data-original-layer="0"
+       d="m 2075.2501,3520 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_713"
+       data-original-layer="0"
+       d="m 2189.7501,3565.25 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_714"
+       data-original-layer="0"
+       d="m 2060.2501,3565.25 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_715"
+       data-original-layer="0"
+       d="m 2204.7501,3490 h 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+  <g
+     id="svg_716"
+     transform="rotate(-90,1026.975,1174.575)"
+     data-original-layer="0"
+     data-ratiofixed="true">
+    <path
+       id="svg_717"
+       data-original-layer="0"
+       d="m 1732.1,1424.95 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_718"
+       data-original-layer="0"
+       d="m 1792.35,1394.95 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_719"
+       data-original-layer="0"
+       d="m 1851.85,1444.95 v 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_720"
+       data-original-layer="0"
+       d="m 202.09999,1849.7 v -295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_721"
+       data-original-layer="0"
+       d="M 1702.1,1554.45 V 1849.7"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_722"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 202.09999,1394.7 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868 h 30 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_723"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 292.09999,1394.7 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_724"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 352.09999,1444.6999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_725"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 352.09999,1444.6999 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_726"
+       data-original-layer="0"
+       d="m 202.09999,644.69998 v -295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_727"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="M 202.09999,1394.7 V 804.69998"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_728"
+       data-original-layer="0"
+       d="m 1702.1,349.69998 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_729"
+       data-original-layer="0"
+       d="m 202.09999,349.69998 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_730"
+       data-original-layer="0"
+       d="m 1407.1,349.69998 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_731"
+       data-original-layer="0"
+       d="m 497.34999,1849.7 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_732"
+       data-original-layer="0"
+       d="M 1702.1,1849.7 H 1406.85"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_733"
+       data-original-layer="0"
+       d="m 1702.1,1394.95 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_734"
+       data-original-layer="0"
+       d="m 1762.35,1424.95 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_735"
+       data-original-layer="0"
+       d="m 1851.85,1444.95 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_736"
+       data-original-layer="0"
+       d="M 1702.1,804.44998 V 1394.95"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_737"
+       data-original-layer="0"
+       d="m 1777.35,1409.95 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_738"
+       data-original-layer="0"
+       d="m 1792.35,1394.95 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 1e-4,0.037 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_739"
+       data-original-layer="0"
+       d="m 292.09999,1394.7 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 l -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_740"
+       data-original-layer="0"
+       d="m 352.09999,1504.7 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_741"
+       data-original-layer="0"
+       d="m 232.09999,1524.7 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_742"
+       data-original-layer="0"
+       d="m 232.09999,1524.7 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_743"
+       data-original-layer="0"
+       d="m 292.09999,1554.7 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_744"
+       data-original-layer="0"
+       d="m 277.09999,1539.7 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_745"
+       data-original-layer="0"
+       d="m 302.09999,1554.7 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_746"
+       data-original-layer="0"
+       d="m 277.10019,1539.7719 c 0.0191,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_747"
+       data-original-layer="0"
+       d="m 277.10019,1539.7719 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_748"
+       data-original-layer="0"
+       d="m 1732.1,1524.45 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_749"
+       data-original-layer="0"
+       d="m 1777.3501,1539.3947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,10e-5 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_750"
+       data-original-layer="0"
+       d="M 1851.85,1504.45 V 1474.7"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_751"
+       data-original-layer="0"
+       d="m 1777.35,1539.45 1e-4,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_752"
+       data-original-layer="0"
+       d="m 1732.1,1524.45 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_753"
+       data-original-layer="0"
+       d="m 1777.35,1539.45 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_754"
+       data-original-layer="0"
+       d="m 1792.35,1554.45 h 9.5 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_755"
+       data-original-layer="0"
+       d="m 232.09999,774.69998 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_756"
+       data-original-layer="0"
+       d="m 302.09999,804.69998 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_757"
+       data-original-layer="0"
+       d="m 277.09999,789.69998 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_758"
+       data-original-layer="0"
+       d="m 277.10019,789.77188 c 0.0191,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_759"
+       data-original-layer="0"
+       d="m 232.09999,774.69998 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_760"
+       data-original-layer="0"
+       d="m 292.09999,804.69998 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_761"
+       data-original-layer="0"
+       d="m 277.10019,789.77188 -2e-4,-0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_762"
+       data-original-layer="0"
+       d="m 352.09999,754.69998 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_763"
+       data-original-layer="0"
+       d="m 352.09999,694.69988 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_764"
+       data-original-layer="0"
+       d="m 262.09999,674.69998 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_765"
+       data-original-layer="0"
+       d="m 277.10019,659.62808 -2e-4,0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_766"
+       data-original-layer="0"
+       d="m 202.09999,644.69998 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_767"
+       data-original-layer="0"
+       d="m 292.09999,644.69998 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_768"
+       data-original-layer="0"
+       d="m 292.09999,644.69998 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_769"
+       data-original-layer="0"
+       d="m 352.09999,694.69988 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_770"
+       data-original-layer="0"
+       d="m 232.09999,674.69998 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_771"
+       data-original-layer="0"
+       d="m 1777.3501,789.39468 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,10e-5 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_772"
+       data-original-layer="0"
+       d="m 1762.35,674.94998 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_773"
+       data-original-layer="0"
+       d="m 1732.1,774.44998 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_774"
+       data-original-layer="0"
+       d="m 1732.1,774.44998 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_775"
+       data-original-layer="0"
+       d="m 1777.35,789.44998 1e-4,-0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_776"
+       data-original-layer="0"
+       d="m 1792.35,644.94998 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_777"
+       data-original-layer="0"
+       d="m 1851.85,694.94998 v 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_778"
+       data-original-layer="0"
+       d="m 1851.85,694.94998 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_779"
+       data-original-layer="0"
+       d="m 1801.85,804.44998 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_780"
+       data-original-layer="0"
+       d="m 1792.35,644.94998 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.0184 1e-4,0.0368 1e-4,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_781"
+       data-original-layer="0"
+       d="m 1792.35,804.44998 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_782"
+       data-original-layer="0"
+       d="m 1777.35,659.94998 1e-4,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_783"
+       data-original-layer="0"
+       d="m 1702.1,644.94998 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_784"
+       data-original-layer="0"
+       d="m 1777.35,789.44998 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_785"
+       data-original-layer="0"
+       d="m 1851.85,754.44998 v -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_786"
+       data-original-layer="0"
+       d="m 1732.1,674.94998 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_787"
+       data-original-layer="0"
+       d="m 1357.1001,499.69998 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_788"
+       data-original-layer="0"
+       d="m 1297.1,499.69998 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_789"
+       data-original-layer="0"
+       d="m 1407.1,349.69998 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_790"
+       data-original-layer="0"
+       d="m 1277.1,379.69998 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_791"
+       data-original-layer="0"
+       d="m 1357.1001,499.69998 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_792"
+       data-original-layer="0"
+       d="m 1392.1719,424.70008 -0.072,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_793"
+       data-original-layer="0"
+       d="m 1277.1,379.69998 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_794"
+       data-original-layer="0"
+       d="m 1377.1,379.69998 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_795"
+       data-original-layer="0"
+       d="m 1407.1,439.69998 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_796"
+       data-original-layer="0"
+       d="m 1262.0281,424.70008 0.072,-1e-4 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_797"
+       data-original-layer="0"
+       d="m 1262.0281,424.70008 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_798"
+       data-original-layer="0"
+       d="m 1377.1,409.69998 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_799"
+       data-original-layer="0"
+       d="m 1247.1,449.69998 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_800"
+       data-original-layer="0"
+       d="m 1407.1,439.69998 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_801"
+       data-original-layer="0"
+       d="m 497.09999,449.69998 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_802"
+       data-original-layer="0"
+       d="m 512.02809,424.70008 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_803"
+       data-original-layer="0"
+       d="m 527.09999,379.69998 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_804"
+       data-original-layer="0"
+       d="m 607.10009,499.69998 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_805"
+       data-original-layer="0"
+       d="m 627.09999,379.69998 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_806"
+       data-original-layer="0"
+       d="m 547.09999,499.69998 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_807"
+       data-original-layer="0"
+       d="m 607.10009,499.69998 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_808"
+       data-original-layer="0"
+       d="m 512.09999,424.69998 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_809"
+       data-original-layer="0"
+       d="m 657.09999,439.69998 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_810"
+       data-original-layer="0"
+       d="m 527.09999,379.69998 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_811"
+       data-original-layer="0"
+       d="m 512.02809,424.70008 0.0719,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_812"
+       data-original-layer="0"
+       d="m 657.09999,349.69998 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_813"
+       data-original-layer="0"
+       d="m 642.17189,424.70008 -0.0719,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_814"
+       data-original-layer="0"
+       d="m 657.09999,439.69998 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_815"
+       data-original-layer="0"
+       d="M 657.09999,349.69998 H 1247.1"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_816"
+       data-original-layer="0"
+       d="m 1376.85,1879.7 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_817"
+       data-original-layer="0"
+       d="m 1391.85,1924.95 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_818"
+       data-original-layer="0"
+       d="M 1356.85,1999.45 H 1327.1"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_819"
+       data-original-layer="0"
+       d="m 1406.85,1939.95 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_820"
+       data-original-layer="0"
+       d="m 1376.85,1909.95 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_821"
+       data-original-layer="0"
+       d="m 1262.35,1924.95 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_822"
+       data-original-layer="0"
+       d="m 1247.35,1939.95 v 9.5 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_823"
+       data-original-layer="0"
+       d="m 1406.85,1939.95 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_824"
+       data-original-layer="0"
+       d="m 1262.35,1924.95 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_825"
+       data-original-layer="0"
+       d="m 1406.85,1849.7 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_826"
+       data-original-layer="0"
+       d="m 1356.85,1999.45 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_827"
+       data-original-layer="0"
+       d="m 1277.35,1879.7 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_828"
+       data-original-layer="0"
+       d="m 1277.35,1879.7 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_829"
+       data-original-layer="0"
+       d="m 1262.4053,1924.9501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_830"
+       data-original-layer="0"
+       d="m 1297.35,1999.45 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_831"
+       data-original-layer="0"
+       d="m 656.84999,1939.95 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_832"
+       data-original-layer="0"
+       d="m 512.40529,1924.9501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_833"
+       data-original-layer="0"
+       d="m 626.84999,1879.7 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_834"
+       data-original-layer="0"
+       d="m 606.84999,1999.45 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_835"
+       data-original-layer="0"
+       d="m 527.34999,1879.7 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_836"
+       data-original-layer="0"
+       d="m 547.34999,1999.45 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_837"
+       data-original-layer="0"
+       d="m 497.34999,1939.95 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_838"
+       data-original-layer="0"
+       d="m 656.84999,1849.7 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_839"
+       data-original-layer="0"
+       d="m 512.34999,1924.95 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_840"
+       data-original-layer="0"
+       d="m 656.84999,1939.95 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.0184,0 -0.0368,0 -0.0552,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_841"
+       data-original-layer="0"
+       d="m 497.34999,1949.45 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_842"
+       data-original-layer="0"
+       d="m 606.84999,1999.45 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_843"
+       data-original-layer="0"
+       d="m 527.34999,1879.7 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_844"
+       data-original-layer="0"
+       d="m 641.84999,1924.95 -0.0552,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_845"
+       data-original-layer="0"
+       d="m 512.34999,1924.95 0.0553,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_846"
+       data-original-layer="0"
+       d="M 656.84999,1849.7 H 1247.35"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+  <g
+     id="svg_862"
+     transform="rotate(-90,1024.875,2854.875)"
+     data-original-layer="0"
+     data-ratiofixed="true">
+    <path
+       id="svg_863"
+       data-original-layer="0"
+       d="m 1730,3105.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_864"
+       data-original-layer="0"
+       d="m 1790.25,3075.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_865"
+       data-original-layer="0"
+       d="M 1849.75,3125.25 V 3155"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_866"
+       data-original-layer="0"
+       d="M 200.00001,3530 V 3235"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_867"
+       data-original-layer="0"
+       d="M 1700,3234.75 V 3530"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_868"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 200.00001,3075 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868 h 30 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_869"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 290.00001,3075 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_870"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 350.00001,3124.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_871"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 350.00001,3124.9999 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_872"
+       data-original-layer="0"
+       d="M 200.00001,2325 V 2030"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_873"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="M 200.00001,3075 V 2485"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_874"
+       data-original-layer="0"
+       d="m 1700,2030 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_875"
+       data-original-layer="0"
+       d="m 200.00001,2030 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_876"
+       data-original-layer="0"
+       d="m 1405,2030 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_877"
+       data-original-layer="0"
+       d="m 495.25001,3530 h -295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_878"
+       data-original-layer="0"
+       d="M 1700,3530 H 1404.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_879"
+       data-original-layer="0"
+       d="m 1700,3075.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_880"
+       data-original-layer="0"
+       d="m 1760.25,3105.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_881"
+       data-original-layer="0"
+       d="m 1849.75,3125.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_882"
+       data-original-layer="0"
+       d="m 1700,2484.75 v 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_883"
+       data-original-layer="0"
+       d="m 1775.25,3090.25 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_884"
+       data-original-layer="0"
+       d="m 1790.25,3075.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 10e-5,0.037 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_885"
+       data-original-layer="0"
+       d="m 290.00001,3075 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 l -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_886"
+       data-original-layer="0"
+       d="m 350.00001,3185 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_887"
+       data-original-layer="0"
+       d="m 230.00001,3205 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_888"
+       data-original-layer="0"
+       d="m 230.00001,3205 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_889"
+       data-original-layer="0"
+       d="m 290.00001,3235 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_890"
+       data-original-layer="0"
+       d="m 275.00001,3220 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_891"
+       data-original-layer="0"
+       d="m 300.00001,3235 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_892"
+       data-original-layer="0"
+       d="m 275.00021,3220.0719 c 0.0191,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_893"
+       data-original-layer="0"
+       d="m 275.00021,3220.0719 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_894"
+       data-original-layer="0"
+       d="m 1730,3204.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_895"
+       data-original-layer="0"
+       d="m 1775.2501,3219.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_896"
+       data-original-layer="0"
+       d="M 1849.75,3184.75 V 3155"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_897"
+       data-original-layer="0"
+       d="m 1775.25,3219.75 10e-5,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_898"
+       data-original-layer="0"
+       d="m 1730,3204.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_899"
+       data-original-layer="0"
+       d="m 1775.25,3219.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_900"
+       data-original-layer="0"
+       d="m 1790.25,3234.75 h 9.5 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_901"
+       data-original-layer="0"
+       d="m 230.00001,2455 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_902"
+       data-original-layer="0"
+       d="m 300.00001,2485 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_903"
+       data-original-layer="0"
+       d="m 275.00001,2470 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_904"
+       data-original-layer="0"
+       d="m 275.00021,2470.0719 c 0.0191,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_905"
+       data-original-layer="0"
+       d="m 230.00001,2455 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_906"
+       data-original-layer="0"
+       d="m 290.00001,2485 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_907"
+       data-original-layer="0"
+       d="m 275.00021,2470.0719 -2e-4,-0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_908"
+       data-original-layer="0"
+       d="m 350.00001,2435 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_909"
+       data-original-layer="0"
+       d="m 350.00001,2374.9999 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_910"
+       data-original-layer="0"
+       d="m 260.00001,2355 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_911"
+       data-original-layer="0"
+       d="m 275.00021,2339.9281 -2e-4,0.072"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_912"
+       data-original-layer="0"
+       d="m 200.00001,2325 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_913"
+       data-original-layer="0"
+       d="m 290.00001,2325 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_914"
+       data-original-layer="0"
+       d="m 290.00001,2325 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_915"
+       data-original-layer="0"
+       d="m 350.00001,2374.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_916"
+       data-original-layer="0"
+       d="m 230.00001,2355 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_917"
+       data-original-layer="0"
+       d="m 1775.2501,2469.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_918"
+       data-original-layer="0"
+       d="m 1760.25,2355.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_919"
+       data-original-layer="0"
+       d="m 1730,2454.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_920"
+       data-original-layer="0"
+       d="m 1730,2454.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_921"
+       data-original-layer="0"
+       d="m 1775.25,2469.75 10e-5,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_922"
+       data-original-layer="0"
+       d="m 1790.25,2325.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_923"
+       data-original-layer="0"
+       d="M 1849.75,2375.25 V 2405"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_924"
+       data-original-layer="0"
+       d="m 1849.75,2375.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_925"
+       data-original-layer="0"
+       d="m 1799.75,2484.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_926"
+       data-original-layer="0"
+       d="m 1790.25,2325.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 10e-5,0.037 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_927"
+       data-original-layer="0"
+       d="m 1790.25,2484.75 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_928"
+       data-original-layer="0"
+       d="m 1775.25,2340.25 10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_929"
+       data-original-layer="0"
+       d="m 1700,2325.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_930"
+       data-original-layer="0"
+       d="m 1775.25,2469.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_931"
+       data-original-layer="0"
+       d="M 1849.75,2434.75 V 2405"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_932"
+       data-original-layer="0"
+       d="m 1730,2355.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_933"
+       data-original-layer="0"
+       d="m 1355.0001,2180 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 C 1399.7322,2155.9785 1405,2143.2608 1405,2130"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_934"
+       data-original-layer="0"
+       d="m 1295,2180 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_935"
+       data-original-layer="0"
+       d="m 1405,2030 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_936"
+       data-original-layer="0"
+       d="m 1275,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_937"
+       data-original-layer="0"
+       d="m 1355.0001,2180 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_938"
+       data-original-layer="0"
+       d="M 1390.0719,2105.0001 1390,2105"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_939"
+       data-original-layer="0"
+       d="m 1275,2060 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 C 1260.5871,2033.1607 1252.9565,2030 1245,2030 c 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_940"
+       data-original-layer="0"
+       d="m 1375,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_941"
+       data-original-layer="0"
+       d="m 1405,2120 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_942"
+       data-original-layer="0"
+       d="M 1259.9281,2105.0001 1260,2105 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_943"
+       data-original-layer="0"
+       d="m 1259.9281,2105.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_944"
+       data-original-layer="0"
+       d="m 1375,2090 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_945"
+       data-original-layer="0"
+       d="m 1245,2130 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_946"
+       data-original-layer="0"
+       d="m 1405,2120 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_947"
+       data-original-layer="0"
+       d="m 495.00001,2130 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_948"
+       data-original-layer="0"
+       d="m 509.92811,2105.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_949"
+       data-original-layer="0"
+       d="m 525.00001,2060 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_950"
+       data-original-layer="0"
+       d="m 605.00011,2180 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_951"
+       data-original-layer="0"
+       d="m 625.00001,2060 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_952"
+       data-original-layer="0"
+       d="m 545.00001,2180 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_953"
+       data-original-layer="0"
+       d="m 605.00011,2180 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_954"
+       data-original-layer="0"
+       d="m 510.00001,2105 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_955"
+       data-original-layer="0"
+       d="m 655.00001,2120 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_956"
+       data-original-layer="0"
+       d="m 525.00001,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_957"
+       data-original-layer="0"
+       d="m 509.92811,2105.0001 0.0719,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_958"
+       data-original-layer="0"
+       d="m 655.00001,2030 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_959"
+       data-original-layer="0"
+       d="m 640.07191,2105.0001 -0.0719,-1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_960"
+       data-original-layer="0"
+       d="m 655.00001,2120 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_961"
+       data-original-layer="0"
+       d="M 655.00001,2030 H 1245"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_962"
+       data-original-layer="0"
+       d="m 1374.75,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_963"
+       data-original-layer="0"
+       d="m 1389.75,3605.25 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_964"
+       data-original-layer="0"
+       d="M 1354.75,3679.75 H 1325"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_965"
+       data-original-layer="0"
+       d="m 1404.75,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_966"
+       data-original-layer="0"
+       d="m 1374.75,3590.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_967"
+       data-original-layer="0"
+       d="m 1260.25,3605.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_968"
+       data-original-layer="0"
+       d="m 1245.25,3620.25 v 9.5 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_969"
+       data-original-layer="0"
+       d="m 1404.75,3620.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_970"
+       data-original-layer="0"
+       d="m 1260.25,3605.25 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_971"
+       data-original-layer="0"
+       d="m 1404.75,3530 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_972"
+       data-original-layer="0"
+       d="m 1354.75,3679.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_973"
+       data-original-layer="0"
+       d="m 1275.25,3560 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_974"
+       data-original-layer="0"
+       d="m 1275.25,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_975"
+       data-original-layer="0"
+       d="m 1260.3053,3605.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -10e-5,0.037 -10e-5,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_976"
+       data-original-layer="0"
+       d="M 1295.25,3679.75 H 1325"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_977"
+       data-original-layer="0"
+       d="m 654.75001,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_978"
+       data-original-layer="0"
+       d="m 510.30531,3605.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_979"
+       data-original-layer="0"
+       d="m 624.75001,3560 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_980"
+       data-original-layer="0"
+       d="m 604.75001,3679.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_981"
+       data-original-layer="0"
+       d="m 525.25001,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_982"
+       data-original-layer="0"
+       d="m 545.25001,3679.75 h 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_983"
+       data-original-layer="0"
+       d="m 495.25001,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_984"
+       data-original-layer="0"
+       d="m 654.75001,3530 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_985"
+       data-original-layer="0"
+       d="m 510.25001,3605.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_986"
+       data-original-layer="0"
+       d="m 654.75001,3620.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.0184,0 -0.0368,0 -0.0552,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_987"
+       data-original-layer="0"
+       d="m 495.25001,3629.75 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_988"
+       data-original-layer="0"
+       d="m 604.75001,3679.75 h -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_989"
+       data-original-layer="0"
+       d="m 525.25001,3560 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_990"
+       data-original-layer="0"
+       d="m 639.75001,3605.25 -0.0552,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_991"
+       data-original-layer="0"
+       d="m 510.25001,3605.25 0.0553,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_992"
+       data-original-layer="0"
+       d="M 654.75001,3530 H 1245.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+  <g
+     id="svg_993"
+     transform="rotate(-90,4272.2292,1117.5208)"
+     data-original-layer="0"
+     data-ratiofixed="true">
+    <path
+       id="svg_994"
+       data-original-layer="0"
+       d="m 4980,1365.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_995"
+       data-original-layer="0"
+       d="m 5040.25,1335.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_996"
+       data-original-layer="0"
+       d="M 5099.75,1385.25 V 1415"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_997"
+       data-original-layer="0"
+       d="M 3450,1790 V 1495"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_998"
+       data-original-layer="0"
+       d="M 4950,1494.75 V 1790"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_999"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3450,1335 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868 h 30 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1000"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3540,1335 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1001"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3600,1384.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 C 3575.9785,1340.2678 3563.2608,1335 3550,1335"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1002"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3600,1384.9999 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1003"
+       data-original-layer="0"
+       d="m 3450,585.00004 v -295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1004"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="M 3450,1335 V 745.00004"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1005"
+       data-original-layer="0"
+       d="m 4950,290.00004 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1006"
+       data-original-layer="0"
+       d="m 3450,290.00004 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1007"
+       data-original-layer="0"
+       d="m 4655,290.00004 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1008"
+       data-original-layer="0"
+       d="M 3745.25,1790 H 3450"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1009"
+       data-original-layer="0"
+       d="M 4950,1790 H 4654.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1010"
+       data-original-layer="0"
+       d="m 4950,1335.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1011"
+       data-original-layer="0"
+       d="m 5010.25,1365.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1012"
+       data-original-layer="0"
+       d="m 5099.75,1385.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1013"
+       data-original-layer="0"
+       d="M 4950,744.75004 V 1335.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1014"
+       data-original-layer="0"
+       d="m 5025.25,1350.25 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1015"
+       data-original-layer="0"
+       d="m 5040.25,1335.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 1e-4,0.037 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1016"
+       data-original-layer="0"
+       d="m 3540,1335 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 L 3525,1350"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1017"
+       data-original-layer="0"
+       d="m 3600,1445 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1018"
+       data-original-layer="0"
+       d="m 3480,1465 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1019"
+       data-original-layer="0"
+       d="m 3480,1465 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1020"
+       data-original-layer="0"
+       d="m 3540,1495 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1021"
+       data-original-layer="0"
+       d="m 3525,1480 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1022"
+       data-original-layer="0"
+       d="m 3550,1495 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 C 3594.7322,1470.9785 3600,1458.2608 3600,1445"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1023"
+       data-original-layer="0"
+       d="m 3525.0002,1480.0719 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1024"
+       data-original-layer="0"
+       d="M 3525.0002,1480.0719 3525,1480"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1025"
+       data-original-layer="0"
+       d="m 4980,1464.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1026"
+       data-original-layer="0"
+       d="m 5025.2501,1479.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,10e-5 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1027"
+       data-original-layer="0"
+       d="M 5099.75,1444.75 V 1415"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1028"
+       data-original-layer="0"
+       d="m 5025.25,1479.75 1e-4,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1029"
+       data-original-layer="0"
+       d="m 4980,1464.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1030"
+       data-original-layer="0"
+       d="m 5025.25,1479.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1031"
+       data-original-layer="0"
+       d="m 5040.25,1494.75 h 9.5 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1032"
+       data-original-layer="0"
+       d="m 3480,715.00004 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1033"
+       data-original-layer="0"
+       d="m 3550,745.00004 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1034"
+       data-original-layer="0"
+       d="m 3525,730.00004 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1035"
+       data-original-layer="0"
+       d="m 3525.0002,730.07194 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1036"
+       data-original-layer="0"
+       d="m 3480,715.00004 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1037"
+       data-original-layer="0"
+       d="m 3540,745.00004 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1038"
+       data-original-layer="0"
+       d="m 3525.0002,730.07194 -2e-4,-0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1039"
+       data-original-layer="0"
+       d="m 3600,695.00004 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1040"
+       data-original-layer="0"
+       d="m 3600,634.99994 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1041"
+       data-original-layer="0"
+       d="m 3510,615.00004 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1042"
+       data-original-layer="0"
+       d="m 3525.0002,599.92814 -2e-4,0.0719"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1043"
+       data-original-layer="0"
+       d="m 3450,585.00004 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1044"
+       data-original-layer="0"
+       d="m 3540,585.00004 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1045"
+       data-original-layer="0"
+       d="m 3540,585.00004 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1046"
+       data-original-layer="0"
+       d="m 3600,634.99994 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 -9.3768,-9.3768 -22.0945,-14.6446 -35.3553,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1047"
+       data-original-layer="0"
+       d="m 3480,615.00004 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1048"
+       data-original-layer="0"
+       d="m 5025.2501,729.69474 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,10e-5 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1049"
+       data-original-layer="0"
+       d="m 5010.25,615.25004 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1050"
+       data-original-layer="0"
+       d="m 4980,714.75004 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1051"
+       data-original-layer="0"
+       d="m 4980,714.75004 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1052"
+       data-original-layer="0"
+       d="m 5025.25,729.75004 1e-4,-0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1053"
+       data-original-layer="0"
+       d="m 5040.25,585.25004 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1054"
+       data-original-layer="0"
+       d="m 5099.75,635.25004 v 29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1055"
+       data-original-layer="0"
+       d="m 5099.75,635.25004 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1056"
+       data-original-layer="0"
+       d="m 5049.75,744.75004 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1057"
+       data-original-layer="0"
+       d="m 5040.25,585.25004 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.0184 1e-4,0.0368 1e-4,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1058"
+       data-original-layer="0"
+       d="m 5040.25,744.75004 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1059"
+       data-original-layer="0"
+       d="m 5025.25,600.25004 1e-4,0.0553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1060"
+       data-original-layer="0"
+       d="m 4950,585.25004 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1061"
+       data-original-layer="0"
+       d="m 5025.25,729.75004 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1062"
+       data-original-layer="0"
+       d="m 5099.75,694.75004 v -29.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1063"
+       data-original-layer="0"
+       d="m 4980,615.25004 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1064"
+       data-original-layer="0"
+       d="m 4605.0001,440.00004 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1065"
+       data-original-layer="0"
+       d="m 4545,440.00004 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1066"
+       data-original-layer="0"
+       d="m 4655,290.00004 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1067"
+       data-original-layer="0"
+       d="m 4525,320.00004 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1068"
+       data-original-layer="0"
+       d="m 4605.0001,440.00004 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1069"
+       data-original-layer="0"
+       d="m 4640.0719,365.00014 -0.072,-10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1070"
+       data-original-layer="0"
+       d="m 4525,320.00004 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1071"
+       data-original-layer="0"
+       d="m 4625,320.00004 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1072"
+       data-original-layer="0"
+       d="m 4655,380.00004 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1073"
+       data-original-layer="0"
+       d="m 4509.9281,365.00014 0.072,-10e-5 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1074"
+       data-original-layer="0"
+       d="m 4509.9281,365.00014 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1075"
+       data-original-layer="0"
+       d="m 4625,350.00004 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1076"
+       data-original-layer="0"
+       d="m 4495,390.00004 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1077"
+       data-original-layer="0"
+       d="m 4655,380.00004 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1078"
+       data-original-layer="0"
+       d="m 3745,390.00004 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1079"
+       data-original-layer="0"
+       d="m 3759.9281,365.00014 c -3.9782,0.0191 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1080"
+       data-original-layer="0"
+       d="m 3775,320.00004 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1081"
+       data-original-layer="0"
+       d="m 3855.0001,440.00004 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1082"
+       data-original-layer="0"
+       d="m 3875,320.00004 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1083"
+       data-original-layer="0"
+       d="m 3795,440.00004 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1084"
+       data-original-layer="0"
+       d="m 3855.0001,440.00004 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1085"
+       data-original-layer="0"
+       d="m 3760,365.00004 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1086"
+       data-original-layer="0"
+       d="m 3905,380.00004 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1087"
+       data-original-layer="0"
+       d="m 3775,320.00004 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1088"
+       data-original-layer="0"
+       d="m 3759.9281,365.00014 0.072,-10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1089"
+       data-original-layer="0"
+       d="m 3905,290.00004 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1090"
+       data-original-layer="0"
+       d="m 3890.0719,365.00014 -0.072,-10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1091"
+       data-original-layer="0"
+       d="m 3905,380.00004 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1092"
+       data-original-layer="0"
+       d="m 3905,290.00004 h 590"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1093"
+       data-original-layer="0"
+       d="m 4624.75,1820 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1094"
+       data-original-layer="0"
+       d="m 4639.75,1865.25 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1095"
+       data-original-layer="0"
+       d="M 4604.75,1939.75 H 4575"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1096"
+       data-original-layer="0"
+       d="m 4654.75,1880.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1097"
+       data-original-layer="0"
+       d="m 4624.75,1850.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1098"
+       data-original-layer="0"
+       d="m 4510.25,1865.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1099"
+       data-original-layer="0"
+       d="m 4495.25,1880.25 v 9.5 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1100"
+       data-original-layer="0"
+       d="m 4654.75,1880.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1101"
+       data-original-layer="0"
+       d="m 4510.25,1865.25 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1102"
+       data-original-layer="0"
+       d="m 4654.75,1790 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1103"
+       data-original-layer="0"
+       d="m 4604.75,1939.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1104"
+       data-original-layer="0"
+       d="m 4525.25,1820 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1105"
+       data-original-layer="0"
+       d="m 4525.25,1820 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1106"
+       data-original-layer="0"
+       d="m 4510.3053,1865.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1107"
+       data-original-layer="0"
+       d="M 4545.25,1939.75 H 4575"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1108"
+       data-original-layer="0"
+       d="m 3904.75,1880.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1109"
+       data-original-layer="0"
+       d="m 3760.3053,1865.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1110"
+       data-original-layer="0"
+       d="m 3874.75,1820 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1111"
+       data-original-layer="0"
+       d="m 3854.75,1939.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1112"
+       data-original-layer="0"
+       d="m 3775.25,1820 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1113"
+       data-original-layer="0"
+       d="M 3795.25,1939.75 H 3825"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1114"
+       data-original-layer="0"
+       d="m 3745.25,1880.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1115"
+       data-original-layer="0"
+       d="m 3904.75,1790 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1116"
+       data-original-layer="0"
+       d="m 3760.25,1865.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1117"
+       data-original-layer="0"
+       d="m 3904.75,1880.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1118"
+       data-original-layer="0"
+       d="m 3745.25,1889.75 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1119"
+       data-original-layer="0"
+       d="M 3854.75,1939.75 H 3825"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1120"
+       data-original-layer="0"
+       d="m 3775.25,1820 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1121"
+       data-original-layer="0"
+       d="m 3889.75,1865.25 -0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1122"
+       data-original-layer="0"
+       d="m 3760.25,1865.25 0.055,10e-5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1123"
+       data-original-layer="0"
+       d="m 3904.75,1790 h 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+  <g
+     id="svg_1124"
+     transform="rotate(-90,4272.2292,2857.5208)"
+     data-original-layer="0"
+     data-ratiofixed="true">
+    <path
+       id="svg_1125"
+       data-original-layer="0"
+       d="m 4980,3105.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1126"
+       data-original-layer="0"
+       d="m 5040.25,3075.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1127"
+       data-original-layer="0"
+       d="M 5099.75,3125.25 V 3155"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1128"
+       data-original-layer="0"
+       d="M 3450,3530 V 3235"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1129"
+       data-original-layer="0"
+       d="M 4950,3234.75 V 3530"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1130"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3450,3075 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868 h 30 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1131"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3540,3075 h 10"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1132"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3600,3124.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 C 3575.9785,3080.2678 3563.2608,3075 3550,3075"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1133"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="m 3600,3124.9999 v 34.6717"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1134"
+       data-original-layer="0"
+       d="M 3450,2325 V 2030"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1135"
+       vector-effect="non-scaling-stroke"
+       data-original-layer="0"
+       d="M 3450,3075 V 2485"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1136"
+       data-original-layer="0"
+       d="m 4950,2030 v 295.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1137"
+       data-original-layer="0"
+       d="m 3450,2030 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1138"
+       data-original-layer="0"
+       d="m 4655,2030 h 295"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1139"
+       data-original-layer="0"
+       d="M 3745.25,3530 H 3450"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1140"
+       data-original-layer="0"
+       d="M 4950,3530 H 4654.75"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1141"
+       data-original-layer="0"
+       d="m 4950,3075.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1142"
+       data-original-layer="0"
+       d="m 5010.25,3105.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1143"
+       data-original-layer="0"
+       d="m 5099.75,3125.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1144"
+       data-original-layer="0"
+       d="m 4950,2484.75 v 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1145"
+       data-original-layer="0"
+       d="m 5025.25,3090.25 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1146"
+       data-original-layer="0"
+       d="m 5040.25,3075.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 1e-4,0.037 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1147"
+       data-original-layer="0"
+       d="m 3540,3075 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347 L 3525,3090"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1148"
+       data-original-layer="0"
+       d="m 3600,3185 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1149"
+       data-original-layer="0"
+       d="m 3480,3205 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1150"
+       data-original-layer="0"
+       d="m 3480,3205 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1151"
+       data-original-layer="0"
+       d="m 3540,3235 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1152"
+       data-original-layer="0"
+       d="m 3525,3220 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1153"
+       data-original-layer="0"
+       d="m 3550,3235 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 C 3594.7322,3210.9785 3600,3198.2608 3600,3185"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1154"
+       data-original-layer="0"
+       d="m 3525.0002,3220.0719 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1155"
+       data-original-layer="0"
+       d="M 3525.0002,3220.0719 3525,3220"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1156"
+       data-original-layer="0"
+       d="m 4980,3204.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1157"
+       data-original-layer="0"
+       d="m 5025.2501,3219.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1158"
+       data-original-layer="0"
+       d="M 5099.75,3184.75 V 3155"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1159"
+       data-original-layer="0"
+       d="m 5025.25,3219.75 1e-4,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1160"
+       data-original-layer="0"
+       d="m 4980,3204.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1161"
+       data-original-layer="0"
+       d="m 5025.25,3219.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1162"
+       data-original-layer="0"
+       d="m 5040.25,3234.75 h 9.5 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1163"
+       data-original-layer="0"
+       d="m 3480,2455 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1164"
+       data-original-layer="0"
+       d="m 3550,2485 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 C 3594.7322,2460.9785 3600,2448.2608 3600,2435"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1165"
+       data-original-layer="0"
+       d="m 3525,2470 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1166"
+       data-original-layer="0"
+       d="m 3525.0002,2470.0719 c 0.019,3.9782 1.6177,7.7859 4.4442,10.5854 2.8088,2.782 6.6023,4.3427 10.5556,4.3427"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1167"
+       data-original-layer="0"
+       d="m 3480,2455 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1168"
+       data-original-layer="0"
+       d="m 3540,2485 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1169"
+       data-original-layer="0"
+       d="M 3525.0002,2470.0719 3525,2470"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1170"
+       data-original-layer="0"
+       d="m 3600,2435 v -34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1171"
+       data-original-layer="0"
+       d="m 3600,2374.9999 v 34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1172"
+       data-original-layer="0"
+       d="m 3510,2355 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1173"
+       data-original-layer="0"
+       d="M 3525.0002,2339.9281 3525,2340"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1174"
+       data-original-layer="0"
+       d="m 3450,2325 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1175"
+       data-original-layer="0"
+       d="m 3540,2325 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.7954,2.7954 -4.3742,6.5814 -4.3932,10.5347"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1176"
+       data-original-layer="0"
+       d="m 3540,2325 h 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1177"
+       data-original-layer="0"
+       d="m 3600,2374.9999 c 0,-13.2608 -5.2678,-25.9785 -14.6447,-35.3553 C 3575.9785,2330.2678 3563.2608,2325 3550,2325"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1178"
+       data-original-layer="0"
+       d="m 3480,2355 h 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1179"
+       data-original-layer="0"
+       d="m 5025.2501,2469.6947 c -0.015,3.9782 1.5517,7.7993 4.3543,10.6227 2.8027,2.8234 6.6121,4.4178 10.5904,4.4325 0.018,0 0.037,1e-4 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1180"
+       data-original-layer="0"
+       d="m 5010.25,2355.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1181"
+       data-original-layer="0"
+       d="m 4980,2454.75 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1182"
+       data-original-layer="0"
+       d="m 4980,2454.75 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1183"
+       data-original-layer="0"
+       d="m 5025.25,2469.75 1e-4,-0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1184"
+       data-original-layer="0"
+       d="m 5040.25,2325.25 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1185"
+       data-original-layer="0"
+       d="M 5099.75,2375.25 V 2405"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1186"
+       data-original-layer="0"
+       d="m 5099.75,2375.25 c 0,-13.2608 -5.2678,-25.9785 -14.6446,-35.3554 -9.3768,-9.3768 -22.0945,-14.6446 -35.3554,-14.6446 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1187"
+       data-original-layer="0"
+       d="m 5049.75,2484.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1188"
+       data-original-layer="0"
+       d="m 5040.25,2325.25 c -3.9782,0 -7.7935,1.5803 -10.6066,4.3934 -2.813,2.813 -4.3934,6.6283 -4.3934,10.6066 0,0.018 1e-4,0.037 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1189"
+       data-original-layer="0"
+       d="m 5040.25,2484.75 h 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1190"
+       data-original-layer="0"
+       d="m 5025.25,2340.25 1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1191"
+       data-original-layer="0"
+       d="m 4950,2325.25 c 0,7.9565 3.1607,15.5871 8.7868,21.2132 5.6261,5.6261 13.2567,8.7868 21.2132,8.7868"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1192"
+       data-original-layer="0"
+       d="m 5025.25,2469.75 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1193"
+       data-original-layer="0"
+       d="M 5099.75,2434.75 V 2405"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1194"
+       data-original-layer="0"
+       d="m 4980,2355.25 h 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1195"
+       data-original-layer="0"
+       d="m 4605.0001,2180 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 C 4649.7322,2155.9785 4655,2143.2608 4655,2130"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1196"
+       data-original-layer="0"
+       d="m 4545,2180 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1197"
+       data-original-layer="0"
+       d="m 4655,2030 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1198"
+       data-original-layer="0"
+       d="m 4525,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1199"
+       data-original-layer="0"
+       d="m 4605.0001,2180 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1200"
+       data-original-layer="0"
+       d="M 4640.0719,2105.0001 4640,2105"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1201"
+       data-original-layer="0"
+       d="m 4525,2060 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 C 4510.5871,2033.1607 4502.9565,2030 4495,2030 c 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1202"
+       data-original-layer="0"
+       d="m 4625,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1203"
+       data-original-layer="0"
+       d="m 4655,2120 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1204"
+       data-original-layer="0"
+       d="M 4509.9281,2105.0001 4510,2105 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1205"
+       data-original-layer="0"
+       d="m 4509.9281,2105.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1206"
+       data-original-layer="0"
+       d="m 4625,2090 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1207"
+       data-original-layer="0"
+       d="m 4495,2130 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1208"
+       data-original-layer="0"
+       d="m 4655,2120 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1209"
+       data-original-layer="0"
+       d="m 3745,2130 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1210"
+       data-original-layer="0"
+       d="m 3759.9281,2105.0001 c -3.9782,0.019 -7.7859,1.6177 -10.5854,4.4442 -2.782,2.8088 -4.3427,6.6023 -4.3427,10.5557 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1211"
+       data-original-layer="0"
+       d="m 3775,2060 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 C 3760.5871,2033.1607 3752.9565,2030 3745,2030 c 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1212"
+       data-original-layer="0"
+       d="m 3855.0001,2180 c 13.2608,0 25.9785,-5.2679 35.3553,-14.6447 C 3899.7322,2155.9785 3905,2143.2608 3905,2130"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1213"
+       data-original-layer="0"
+       d="m 3875,2060 v 30 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1214"
+       data-original-layer="0"
+       d="m 3795,2180 h 34.6716"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1215"
+       data-original-layer="0"
+       d="m 3855.0001,2180 h -34.6717"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1216"
+       data-original-layer="0"
+       d="m 3760,2105 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1217"
+       data-original-layer="0"
+       d="m 3905,2120 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.7954,-2.7955 -6.5814,-4.3743 -10.5347,-4.3933"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1218"
+       data-original-layer="0"
+       d="m 3775,2060 v 30"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1219"
+       data-original-layer="0"
+       d="M 3759.9281,2105.0001 3760,2105"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1220"
+       data-original-layer="0"
+       d="m 3905,2030 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1221"
+       data-original-layer="0"
+       d="M 3890.0719,2105.0001 3890,2105"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1222"
+       data-original-layer="0"
+       d="m 3905,2120 v 10"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1223"
+       data-original-layer="0"
+       d="m 3905,2030 h 590"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1224"
+       data-original-layer="0"
+       d="m 4624.75,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1225"
+       data-original-layer="0"
+       d="m 4639.75,3605.25 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1226"
+       data-original-layer="0"
+       d="M 4604.75,3679.75 H 4575"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1227"
+       data-original-layer="0"
+       d="m 4654.75,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1228"
+       data-original-layer="0"
+       d="m 4624.75,3590.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1229"
+       data-original-layer="0"
+       d="m 4510.25,3605.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1230"
+       data-original-layer="0"
+       d="m 4495.25,3620.25 v 9.5 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1231"
+       data-original-layer="0"
+       d="m 4654.75,3620.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1232"
+       data-original-layer="0"
+       d="m 4510.25,3605.25 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1233"
+       data-original-layer="0"
+       d="m 4654.75,3530 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1234"
+       data-original-layer="0"
+       d="m 4604.75,3679.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1235"
+       data-original-layer="0"
+       d="m 4525.25,3560 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1236"
+       data-original-layer="0"
+       d="m 4525.25,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1237"
+       data-original-layer="0"
+       d="m 4510.3053,3605.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1238"
+       data-original-layer="0"
+       d="M 4545.25,3679.75 H 4575"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1239"
+       data-original-layer="0"
+       d="m 3904.75,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1240"
+       data-original-layer="0"
+       d="m 3760.3053,3605.2501 c -3.9782,-0.015 -7.7993,1.5516 -10.6227,4.3543 -2.8234,2.8026 -4.4178,6.6121 -4.4325,10.5903 0,0.018 -1e-4,0.037 -1e-4,0.055"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1241"
+       data-original-layer="0"
+       d="m 3874.75,3560 v 30.25 c 0,3.9782 1.5804,7.7935 4.3934,10.6066 2.8131,2.813 6.6284,4.3934 10.6066,4.3934"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1242"
+       data-original-layer="0"
+       d="m 3854.75,3679.75 c 13.2609,0 25.9786,-5.2679 35.3554,-14.6447 9.3768,-9.3768 14.6446,-22.0945 14.6446,-35.3553 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1243"
+       data-original-layer="0"
+       d="m 3775.25,3560 v 30.25"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1244"
+       data-original-layer="0"
+       d="M 3795.25,3679.75 H 3825"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1245"
+       data-original-layer="0"
+       d="m 3745.25,3620.25 v 9.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1246"
+       data-original-layer="0"
+       d="m 3904.75,3530 c -7.9565,0 -15.5871,3.1607 -21.2132,8.7868 -5.6261,5.6261 -8.7868,13.2567 -8.7868,21.2132"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1247"
+       data-original-layer="0"
+       d="m 3760.25,3605.25 c 3.9783,0 7.7936,-1.5804 10.6066,-4.3934 2.8131,-2.8131 4.3934,-6.6284 4.3934,-10.6066"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1248"
+       data-original-layer="0"
+       d="m 3904.75,3620.25 c 0,-3.9783 -1.5803,-7.7936 -4.3934,-10.6066 -2.813,-2.8131 -6.6283,-4.3934 -10.6066,-4.3934 -0.018,0 -0.037,0 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1249"
+       data-original-layer="0"
+       d="m 3745.25,3629.75 c 0,13.2608 5.2679,25.9785 14.6447,35.3553 9.3768,9.3768 22.0945,14.6447 35.3553,14.6447 0,0 0,0 0,0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1250"
+       data-original-layer="0"
+       d="M 3854.75,3679.75 H 3825"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1251"
+       data-original-layer="0"
+       d="m 3775.25,3560 c 0,-7.9565 -3.1607,-15.5871 -8.7868,-21.2132 -5.6261,-5.6261 -13.2567,-8.7868 -21.2132,-8.7868 v 0"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1252"
+       data-original-layer="0"
+       d="m 3889.75,3605.25 -0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1253"
+       data-original-layer="0"
+       d="m 3760.25,3605.25 0.055,1e-4"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+    <path
+       id="svg_1254"
+       data-original-layer="0"
+       d="m 3904.75,3530 h 590.5"
+       vector-effect="non-scaling-stroke"
+       stroke="#000000"
+       fill="none" />
+  </g>
+</svg>
