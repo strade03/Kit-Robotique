@@ -9,15 +9,15 @@
 ## Dalles de circuit
 >Ces dalles vous permettrons de faire des circuits. Le système d'accroche permet une mise en place simple et rapide.
 
-Pour les réaliser il vous faudra :
+###Pour les réaliser il vous faudra :
 - du MDF de 3mm 
 - une découpe laser
 
-Télécharger les fichiers de découpe se trouvant [le dossier dalles](/blue-bot/dalles/):
+###Télécharger les fichiers de découpe se trouvant [le dossier dalles](/blue-bot/dalles/) :
 - [la pièce](/blue-bot/dalles/dalle.svg)
 - [6 pièces agencées (taille 490mm x 340mm)](/blue-bot/dalles/dalles_x6.svg)
 
-Voici le résultat :
+###Voici le résultat :
 
 <img src="/blue-bot/img/Bluebot_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
 
