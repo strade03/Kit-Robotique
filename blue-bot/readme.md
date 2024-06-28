@@ -13,7 +13,7 @@
 - du MDF de 3mm 
 - une découpe laser
 
-### Télécharger les fichiers de découpe se trouvant dans [le dossier dalles](/blue-bot/dalles/)\
+### Télécharger les fichiers de découpe se trouvant dans [le dossier dalles](/blue-bot/dalles/)
 _ou faire clic droit enregistrer la cible du lien sous_ :
 - [la pièce](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalle.svg)
 - [6 pièces agencées (taille 490mm x 340mm)](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalles_x6.svg)
