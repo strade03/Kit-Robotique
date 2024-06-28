@@ -13,7 +13,7 @@
 - du MDF de 3mm 
 - une découpe laser
 
-### Télécharger les fichiers de découpe se trouvant [le dossier dalles](/blue-bot/dalles/) :
+### Télécharger les fichiers de découpe se trouvant dans [le dossier dalles](/blue-bot/dalles/) :
 - [la pièce](/blue-bot/dalles/dalle.svg)
 - [6 pièces agencées (taille 490mm x 340mm)](/blue-bot/dalles/dalles_x6.svg)
 
