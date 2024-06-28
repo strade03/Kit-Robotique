@@ -48,8 +48,8 @@ Voici le résultat :
 ---
 ## Application Android - Barre de programmation - Bluebot controleur V2
 
-Cette application permet d'envoyer au robot le programme composé sur l'application.
-Le programme peut-être corriger et modifier en déplaçant les cartes de programmation.
+Cette application permet d'envoyer au robot le programme écrit sur l'application.\
+Le programme peut-être corrigé et modifié en déplaçant les cartes de programmation.
 
 ### Installation :
 - Télécharger le fichier d'installation apk [BlueBot_V2.0](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/application/Bluebot_V2.0.apk)
