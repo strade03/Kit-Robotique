@@ -14,8 +14,8 @@
 - une découpe laser
 
 ### Télécharger les fichiers de découpe se trouvant dans [le dossier dalles](/blue-bot/dalles/) :
-- [la pièce](/blue-bot/dalles/dalle.svg)
-- [6 pièces agencées (taille 490mm x 340mm)](/blue-bot/dalles/dalles_x6.svg)
+- [la pièce](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalle.svg)
+- [6 pièces agencées (taille 490mm x 340mm)](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalles_x6.svg)
 
 ### Voici le résultat :
 
@@ -50,7 +50,7 @@ Cette application permet d'envoyer au robot le programme composé sur l'applicat
 Le programme peut-être corriger et modifier en déplaçant les cartes de programmation.
 
 ### Installation :
-- Télécharger le fichier d'installation apk [BlueBot_V2.0](/blue-bot/application/Bluebot_V2.0.apk)
+- Télécharger le fichier d'installation apk [BlueBot_V2.0](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/application/Bluebot_V2.0.apk)
 - Il faudra Allez dans les paramètres, puis Sécurité pour Activez les sources inconnues 
 
  <img src="/blue-bot/img/BlueBot_controleur_V2.png" alt="Capture ecran" width="600px" >
