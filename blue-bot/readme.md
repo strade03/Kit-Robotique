@@ -23,6 +23,7 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 <img src="/blue-bot/dalles/Demo_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
 
 <img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
+
 ---
 
 ## Réglette de programmation
