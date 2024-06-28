@@ -25,7 +25,6 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 <img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
 
 ---
-
 ## Réglette de programmation
 
 >_Voici une adaptation de la réglette proposée dans le document :\
