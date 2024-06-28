@@ -37,7 +37,11 @@ Cette réglette permet de garder une trace du programme et ainsi de permettre au
 - Imprimer sur du papier bristol les fiches
 - Pour la découpe des cartes, vous pouvez utiliser le fichier pour découpe laser au format SVG ou avec un massicot et une relieuse.
 
+Voici le résultat :
 
+<img src="/blue-bot/img/Reglette_ex1.jpg" alt="Reglette exemple 1" width="600px" >
+
+<img src="/blue-bot/img/Reglette_ex2.jpg" alt="Reglette exemple 2" width="600px" >
 
 ---
 ## Application Android - Barre de programmation - Bluebot controleur V2
@@ -46,6 +50,7 @@ Cette application permet d'envoyer au robot le programme composé sur l'applicat
 Le programme peut-être corriger et modifier en déplaçant les cartes de programmation.
 
  <img src="/blue-bot/img/BlueBot_controleur_V2.png" alt="Capture ecran" width="600px" >
+ 
 ---
 
 
