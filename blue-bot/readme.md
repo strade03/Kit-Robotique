@@ -27,7 +27,7 @@ Voici le résultat :
 ## Réglette de programmation
 
 >_Voici une adaptation de la réglette proposée dans le document :\
->**Séquences « Langage, codage et robotique au cycle 1 »**\
+>**[Séquences « Langage, codage et robotique au cycle 1 »](https://blogacabdx.ac-bordeaux.fr/numerique33/wp-content/uploads/sites/22/2021/06/S%C3%A9quence-codage-robotique-cycle-1.pdf)**\
 >Yann Boudic, Frédéric Hayet, Agnès Laurent, Christophe Lefrais,\
 >Conseillers pédagogiques DSDEN de la Gironde, Mai 2021_
 
