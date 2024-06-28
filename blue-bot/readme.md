@@ -52,8 +52,9 @@ Le programme peut-être corriger et modifier en déplaçant les cartes de progra
 
 ### Installation :
 - Télécharger le fichier d'installation apk [BlueBot_V2.0](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/application/Bluebot_V2.0.apk)
-- Il faudra Allez dans les paramètres, puis Sécurité pour Activez les sources inconnues 
+- Il faudra Allez dans les paramètres, puis Sécurité pour Activez les sources inconnues
 
+- une fois executé, appairer le robot en utilisant le bouton en haut à droite.
  <img src="/blue-bot/application/Demo_BlueBot_controleur_V2.png" alt="Capture ecran" width="600px" >
  
 ---
