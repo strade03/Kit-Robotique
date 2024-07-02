@@ -3,20 +3,20 @@
 ### Au menu :
 - Dalles de circuit
 - Réglette de programmation
-- Application Android - Barre de programmation - Bluebot controleur V2
+- Application Androïd - Barre de programmation - Bluebot contrôleur V2
 ---
 
 ## Dalles de circuit
->Ces dalles vous permettrons de faire des circuits. Le système d'accroche permet une mise en place simple et rapide.
+>Ces dalles vous permettrons de réaliser des circuits. Le système d'accroche permet une mise en place simple et rapide.
 
 ### Pour les réaliser il vous faudra :
-- du MDF de 3mm 
+- du MDF de 3 mm 
 - une découpe laser
 
 ### Télécharger les fichiers de découpe se trouvant dans [le dossier dalles](/blue-bot/dalles/)
 _ou faire clic droit enregistrer la cible du lien sous_ :
 - [la pièce](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalle.svg)
-- [6 pièces agencées (taille 490mm x 340mm)](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalles_x6.svg)
+- [6 pièces agencées (taille 490 mm x 340 mm)](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/dalles/dalles_x6.svg)
 
 ### Voici le résultat :
 
@@ -32,24 +32,26 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 >Yann Boudic, Frédéric Hayet, Agnès Laurent, Christophe Lefrais,\
 >Conseillers pédagogiques DSDEN de la Gironde, Mai 2021_
 
-Cette réglette permet de garder une trace du programme et ainsi de permettre aux élèves de corriger d'éventuelles erreurs.
+Cette réglette permet aux élèves de garder une trace du programme et de corriger d'éventuelles erreurs.
 
 ### Réalisation :
 - Imprimer sur du papier bristol les fiches
 - Pour la découpe des cartes, vous pouvez utiliser le [fichier pour découpe laser](TODO) au format SVG ou un massicot.
 
-_Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissance de 20% et une vitesse de 300mm/sec_
+_Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissance de 20% et une vitesse de 300 mm/sec_
 
 La réalisation :
 
-<img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
 La découpe laser prépare les cartes sans effort. Il faut environ 3 minutes par page.
+<img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
 
+
+Sur le bas des cartes, la découpe n'est pas complète pour faciliter le montage.\
+Il faudra les désolidariser à la main après avoir relié l'ensemble.
 <img src="/blue-bot/reglette/decoupe_montage3.jpg" alt="Reglette réalisation" width="600px" >
-Sur le bas des carte, la découpe n'est pas complète pour faciliter le montage. Il faudra les désolidariser à la main après avoir relié l'ensemble.
 
+Je vous conseille de mettre un film transparent dessous et dessus pour obtenir un produit robuste.
 <img src="/blue-bot/reglette/decoupe_montage4.jpg" alt="Reglette réalisation" width="600px" >
-Je vous conseille de mettre un film transparent dessous et dessus pour opbtenir un produit robuste.
 
 
 Voici le résultat :
@@ -59,16 +61,16 @@ Voici le résultat :
 <img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="600px" >
 
 ---
-## Application Android - Barre de programmation - Bluebot controleur V2
+## Application Androïd - Barre de programmation - Bluebot contrôleur V2
 
 Cette application permet d'envoyer au robot le programme écrit sur l'application.\
-Le programme peut-être corrigé et modifié en déplaçant les cartes de programmation.
+Le programme peut être corrigé et modifié en déplaçant les cartes de programmation.
 
 ### Installation :
 - Télécharger le fichier d'installation apk [BlueBot_V2.0](https://github.com/strade03/Kit-Robotique/raw/main/blue-bot/application/Bluebot_V2.0.apk)
-- Il faudra Allez dans les paramètres, puis Sécurité pour Activez les sources inconnues
+- Il faudra Aller dans les paramètres, puis cliquer sur Sécurité pour Activer les sources inconnues
 
-- une fois executé, appairer le robot en utilisant le bouton en haut à droite.
+- une fois exécuté, appairer le robot en utilisant le bouton en haut à droite.
  <img src="/blue-bot/application/Demo_BlueBot_controleur_V2.png" alt="Capture ecran" width="600px" >
  
 ---
