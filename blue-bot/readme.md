@@ -42,11 +42,11 @@ _Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissa
 
 La réalisation :
 
-<img src="/blue-bot/reglette/decoupe_montage 2.jpg" alt="Reglette réalisation" width="600px" >
+<img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
 
-<img src="/blue-bot/reglette/decoupe_montage 3.jpg" alt="Reglette réalisation" width="600px" >
+<img src="/blue-bot/reglette/decoupe_montage3.jpg" alt="Reglette réalisation" width="600px" >
 
-<img src="/blue-bot/reglette/decoupe_montage 4.jpg" alt="Reglette réalisation" width="600px" >
+<img src="/blue-bot/reglette/decoupe_montage4.jpg" alt="Reglette réalisation" width="600px" >
 
 
 Voici le résultat :
