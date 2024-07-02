@@ -40,6 +40,15 @@ Cette réglette permet de garder une trace du programme et ainsi de permettre au
 
 _Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissance de 20% et une vitesse de 300mm/sec_
 
+La réalisation :
+
+<img src="/blue-bot/reglette/decoupe_montage 2.jpg" alt="Reglette réalisation" width="600px" >
+
+<img src="/blue-bot/reglette/decoupe_montage 3.jpg" alt="Reglette réalisation" width="600px" >
+
+<img src="/blue-bot/reglette/decoupe_montage 4.jpg" alt="Reglette réalisation" width="600px" >
+
+
 Voici le résultat :
 
 <img src="/blue-bot/reglette/Demo_Reglette1.jpg" alt="Reglette exemple 1" width="600px" >
