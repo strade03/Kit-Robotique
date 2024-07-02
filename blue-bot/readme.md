@@ -43,6 +43,7 @@ _Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissa
 La réalisation :
 
 <img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
+La découpe laser prépare les cartes sans effort. Il faut environ 3 minutes par page.
 
 <img src="/blue-bot/reglette/decoupe_montage3.jpg" alt="Reglette réalisation" width="600px" >
 Sur le bas des carte, la découpe n'est pas complète pour faciliter le montage. Il faudra les désolidariser à la main après avoir relié l'ensemble.
