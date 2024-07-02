@@ -45,8 +45,10 @@ La réalisation :
 <img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
 
 <img src="/blue-bot/reglette/decoupe_montage3.jpg" alt="Reglette réalisation" width="600px" >
+Sur le bas des carte, la découpe n'est pas complète pour faciliter le montage. Il faudra les désolidariser à la main après avoir relié l'ensemble.
 
 <img src="/blue-bot/reglette/decoupe_montage4.jpg" alt="Reglette réalisation" width="600px" >
+Je vous conseille de mettre un film transparent dessous et dessus pour opbtenir un produit robuste.
 
 
 Voici le résultat :
