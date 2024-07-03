@@ -35,7 +35,8 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 Cette réglette permet aux élèves de garder une trace du programme et de corriger d'éventuelles erreurs.
 
 ### Réalisation :
-Téléchargement : le [Kit 4 réglettes](/blue-bot/reglette/Kits_reglettes.pdf) et le [fichier pour découpe laser](/blue-bot/reglette/decoupage_carte.svg)
+
+###Télécharger le [Kit 4 réglettes](/blue-bot/reglette/Kits_reglettes.pdf) et le [fichier pour découpe laser](/blue-bot/reglette/decoupage_carte.svg)
 
 - Imprimer sur du papier bristol les fiches
 
