@@ -36,11 +36,10 @@ Cette réglette permet aux élèves de garder une trace du programme et de corri
 
 ### Réalisation :
 - Imprimer sur du papier bristol les fiches
+
 - Pour la découpe des cartes, vous pouvez utiliser le [fichier pour découpe laser](TODO) au format SVG ou un massicot.
 
 _Sur une Beambox Pro, laser 50 W CO₂, la découpe est parfaite avec une puissance de 20% et une vitesse de 300 mm/sec_
-
-La réalisation :
 
 La découpe laser prépare les cartes sans effort. Il faut environ 3 minutes par page.
 <img src="/blue-bot/reglette/decoupe_montage2.jpg" alt="Reglette réalisation" width="600px" >
