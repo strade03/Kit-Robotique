@@ -7,7 +7,7 @@
 ---
 
 ## Dalles de circuit
->Ces dalles vous permettrons de réaliser des circuits. Le système d'accroche permet une mise en place simple et rapide.
+>Ces dalles vous permettront de réaliser des circuits. Le système d'accroche permet une mise en place simple et rapide.
 
 ### Pour les réaliser il vous faudra :
 - du MDF de 3 mm 
