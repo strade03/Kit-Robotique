@@ -1,6 +1,6 @@
 # Ressources Blue-bot
 <p align="center" width="100%"><img  src="https://github.com/strade03/Pilotage_volets_SOMFY_ESP32/blob/main/images/by-nc-sa.png">
- <i>Verdier Stéphane - CP Ecole Numérique Montluçon</i></p>
+ <br><i>Verdier Stéphane - CP Ecole Numérique Montluçon</i></p>
 
 ### Au menu :
 - Dalles de circuit
