@@ -22,9 +22,9 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 
 ### Voici le résultat :
 
-<img src="/blue-bot/dalles/Demo_Dalles1.jpg" alt="dalles exemple 1" width="200px" >
+<img src="/blue-bot/dalles/Demo_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
 
-<img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="500px" >
+<img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
 
 ---
 ## Réglette de programmation
@@ -59,9 +59,9 @@ Je vous conseille de mettre un film transparent dessous et dessus pour obtenir u
 
 Voici le résultat :
 
-<img src="/blue-bot/reglette/Demo_Reglette1.jpg" alt="Reglette exemple 1" width="600px" >
+<img src="/blue-bot/reglette/Demo_Reglette1.jpg" alt="Reglette exemple 1" width="200px" >
 
-<img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="600px" >
+<img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="500px" >
 
 ---
 ## Cartes de programmation aimantées 
