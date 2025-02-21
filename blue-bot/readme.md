@@ -22,9 +22,9 @@ _ou faire clic droit enregistrer la cible du lien sous_ :
 
 ### Voici le résultat :
 
-<img src="/blue-bot/dalles/Demo_Dalles1.jpg" alt="dalles exemple 1" width="600px" >
+<img src="/blue-bot/dalles/Demo_Dalles1.jpg" alt="dalles exemple 1" width="200px" >
 
-<img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="600px" >
+<img src="/blue-bot/dalles/Demo_Dalles2.jpg" alt="dalles exemple 2" width="500px" >
 
 ---
 ## Réglette de programmation
