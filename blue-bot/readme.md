@@ -59,9 +59,9 @@ Je vous conseille de mettre un film transparent dessous et dessus pour obtenir u
 
 Voici le résultat :
 
-<img src="/blue-bot/reglette/Demo_Reglette1.jpg" alt="Reglette exemple 1" width="200px" >
+<img src="/blue-bot/reglette/Demo_Reglette1.jpg" alt="Reglette exemple 1" width="600px" >
 
-<img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="500px" >
+<img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="600px" >
 
 ---
 ## Cartes de programmation aimantées 
@@ -70,11 +70,11 @@ Voici le résultat :
 En utilisant les 4 dernières pages du document, découper les cartes individuellement.
 Coller une plaquette magnétique au dos 
 
-<img src="/blue-bot/reglette/version_aimantee_1.jpg" alt="Reglette exemple 1" width="600px" >
+<img src="/blue-bot/reglette/version_aimantee_1.jpg" alt="Reglette exemple 1" width="300px" >
 
 Vous pourrez composer les programmes sur une ardoise 
 
-<img src="/blue-bot/reglette/version_aimantee_2.jpg" alt="Reglette exemple 1" width="600px" >
+<img src="/blue-bot/reglette/version_aimantee_2.jpg" alt="Reglette exemple 1" width="500px" >
 
 
 ---
