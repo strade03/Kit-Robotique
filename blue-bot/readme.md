@@ -67,12 +67,11 @@ Voici le résultat :
 ## Cartes de programmation aimantées 
 
 ### Télécharger le [Kit 4 réglettes](/blue-bot/reglette/Kits_reglettes.pdf)
-En utilisant les 4 dernières pages du document, découper les cartes individuellement.
-Coller une plaquette magnétique au dos 
+En utilisant les quatre dernières pages du document, découpez les cartes individuellement et collez une plaquette magnétique au dos. 
 
 <img src="/blue-bot/reglette/version_aimantee_1.jpg" alt="Reglette exemple 1" width="300px" >
 
-Vous pourrez composer les programmes sur une ardoise 
+Vous pourrez composer les programmes sur une ardoise.
 
 <img src="/blue-bot/reglette/version_aimantee_2.jpg" alt="Reglette exemple 1" width="500px" >
 
