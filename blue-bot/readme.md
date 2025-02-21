@@ -64,6 +64,18 @@ Voici le résultat :
 <img src="/blue-bot/reglette/Demo_Reglette2.jpg" alt="Reglette exemple 2" width="600px" >
 
 ---
+## Cartes de programmation aimantées 
+
+### Télécharger le [Kit 4 réglettes](/blue-bot/reglette/Kits_reglettes.pdf)
+En utilisant les 4 dernières pages du document, découper les cartes individuellement.
+Coller une plaquette magnétique au dos 
+<img src="/blue-bot/reglette/version_aimantee_1.jpg" alt="Reglette exemple 1" width="600px" >
+
+Vous pourrez composer les programmes sur une ardoise 
+<img src="/blue-bot/reglette/version_aimantee_2.jpg" alt="Reglette exemple 1" width="600px" >
+
+
+---
 ## Application Androïd - Barre de programmation - Bluebot contrôleur V2
 
 Cette application permet d'envoyer au robot le programme écrit sur l'application.\
